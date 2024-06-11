@@ -1,0 +1,27 @@
+body{
+    background-color: #000;
+}
+.card {
+    margin-top: 50%;
+  }
+  
+  .card-header {
+    background-color: #9f3fc2;
+    color: #fff;
+  }
+  
+  .btn-primary {
+    background-color: #9f3fc2;
+    border-color: #9f3fc2;
+  }
+  
+  .btn-primary:hover {
+    background-color: #9f3fc2;
+    border-color: #9f3fc2;
+  }
+  .btn-secondary{
+    color: #fff;
+    background-color: #9f3fc2;
+    margin: 12px;
+    float: right;
+  }
